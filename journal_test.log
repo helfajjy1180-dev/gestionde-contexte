@@ -1,0 +1,13 @@
+[2026-11-13 14:27:14.103513] Début du traitement.
+[2026-11-13 14:27:14.186452] Début opération 1 : ajouter utilisateur
+[2026-11-13 14:27:14.186951] Fin opération 1 : AJOUTER UTILISATEUR
+[2026-11-13 14:27:14.187192] Début opération 2 : modifier salle
+[2026-11-13 14:27:14.190409] Fin opération 2 : MODIFIER SALLE
+[2026-11-13 14:27:14.190619] Début opération 3 : supprimer reservation
+[2026-11-13 14:27:14.192165] Fin opération 3 : SUPPRIMER RESERVATION
+[2026-11-13 14:27:14.192396] Traitement terminé sans erreur.
+[2026-11-13 14:27:14.203027] Début du traitement.
+[2026-11-13 14:27:14.232367] Début opération 1 : ajouter utilisateur
+[2026-11-13 14:27:14.233311] Fin opération 1 : AJOUTER UTILISATEUR
+[2026-11-13 14:27:14.233467] Début opération 2 : ERREUR
+[2026-11-13 14:27:14.233633] Traitement interrompu : ValueError — Erreur simulée pendant le traitement.
